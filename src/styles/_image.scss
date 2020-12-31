@@ -1,0 +1,12 @@
+.image {
+  flex: 1;
+  overflow: hidden;
+  display: block;
+  background-image: url("../assets/images/hero-desktop.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  @include respond(mobile) {
+    display: none;
+  }
+}
