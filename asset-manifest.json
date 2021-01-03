@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/base-apparel/static/css/main.dab910e6.chunk.css",
+    "main.js": "/base-apparel/static/js/main.2fc2b43d.chunk.js",
+    "main.js.map": "/base-apparel/static/js/main.2fc2b43d.chunk.js.map",
+    "runtime-main.js": "/base-apparel/static/js/runtime-main.8f9add72.js",
+    "runtime-main.js.map": "/base-apparel/static/js/runtime-main.8f9add72.js.map",
+    "static/js/2.3423c1d3.chunk.js": "/base-apparel/static/js/2.3423c1d3.chunk.js",
+    "static/js/2.3423c1d3.chunk.js.map": "/base-apparel/static/js/2.3423c1d3.chunk.js.map",
+    "index.html": "/base-apparel/index.html",
+    "precache-manifest.bf3fa1d6cd9f6d158849c768ccf09c68.js": "/base-apparel/precache-manifest.bf3fa1d6cd9f6d158849c768ccf09c68.js",
+    "service-worker.js": "/base-apparel/service-worker.js",
+    "static/css/main.dab910e6.chunk.css.map": "/base-apparel/static/css/main.dab910e6.chunk.css.map",
+    "static/js/2.3423c1d3.chunk.js.LICENSE.txt": "/base-apparel/static/js/2.3423c1d3.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/base-apparel/static/media/hero-mobile.1d55799a.jpg",
+    "static/media/icon-arrow.svg": "/base-apparel/static/media/icon-arrow.69950c2d.svg",
+    "static/media/icon-error.svg": "/base-apparel/static/media/icon-error.33780997.svg",
+    "static/media/logo.svg": "/base-apparel/static/media/logo.877543ce.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f9add72.js",
+    "static/js/2.3423c1d3.chunk.js",
+    "static/css/main.dab910e6.chunk.css",
+    "static/js/main.2fc2b43d.chunk.js"
+  ]
+}
